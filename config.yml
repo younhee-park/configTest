@@ -13,4 +13,4 @@ greeting: "개발 서버입니다"
 ---
 spring:
   profiles: prod
-greeting: "프로드 서버입니다^^"
+greeting: "프로드 서버입니다^0^"
