@@ -4,14 +4,17 @@ devguider:
 ---
 spring:
   profiles: stg
-greeting: "스테이징 서버입니다"
+devguider:  
+  greeting: "스테이징 서버입니다"
 
 ---
 spring:
   profiles: dev
-greeting: "개발 서버입니다"
+devguider:  
+  greeting: "개발 서버입니다"
 
 ---
 spring:
   profiles: prod
-greeting: "프로드 서버입니다^0^"
+devguider:  
+  greeting: "프로드 서버입니다^0^"
