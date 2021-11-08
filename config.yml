@@ -17,4 +17,4 @@ devguider:
 spring:
   profiles: prod
 devguider:  
-  greeting: "프로드 서버입니다/^0^ ^0^/"
+  greeting: "NEW 프로드 서버입니다/^0^ ^0^/"
