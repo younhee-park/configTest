@@ -1,4 +1,4 @@
-message: "반갑습니다"
+greeting: "반갑습니다"
 
 --
 spring:
