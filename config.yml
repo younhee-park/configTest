@@ -1,4 +1,5 @@
-greeting: "반갑습니다"
+devguider:
+  greeting: "반갑습니다"
 
 ---
 spring:
